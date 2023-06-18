@@ -39,4 +39,4 @@ Twitter: [@PSafe](https://twitter.com/psafe)
 
 ### Contact Info
 
-Question? [Contact Us](https://github.com/contact)
+Question? [Contact Us](https://psafe.org/contact)
