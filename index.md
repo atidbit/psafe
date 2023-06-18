@@ -1,10 +1,11 @@
 ## Psychological Safety, Advancement and Review
 
-You can use the [editor on GitHub](https://github.com/atidbit/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The principal aim of "Psychological Safety, Advancement and Review" (PSAR) is to foster a multidisciplinary discourse on the role, mechanisms, and implications of psychological safety in both societal and organizational contexts. The journal seeks to cultivate an enriched understanding of how psychological
+safety, as a concept and a practice, can be harnessed to build more resilient, inclusive, and effective systems in our modern world.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Learn more about our goals and objectives [here](https://psafe.org/goals/).
 
-### Markdown
+### Recent Articles
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -28,10 +29,12 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Contribute and Join The Conversation
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/atidbit/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Reddit: r/PsychologicalSafety](https://i.reddit.com/r/PsychologicalSafety/)
 
-### Support or Contact
+[Twitter: @PSafe](https://twitter.com/psafe)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact Info
+
+Question? [Contact Us](https://github.com/contact)
