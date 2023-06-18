@@ -31,9 +31,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Contribute and Join The Conversation
 
-[Reddit: r/PsychologicalSafety](https://i.reddit.com/r/PsychologicalSafety/)
+Reddit: [r/PsychologicalSafety](https://i.reddit.com/r/PsychologicalSafety/)
 
-[Twitter: @PSafe](https://twitter.com/psafe)
+Twitter: [@PSafe](https://twitter.com/psafe)
 
 ### Contact Info
 
