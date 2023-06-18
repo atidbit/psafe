@@ -5,7 +5,7 @@
 The principal aim of "Psychological Safety, Advancement and Review" (PSAR) is to foster a multidisciplinary discourse on the role, mechanisms, and implications of psychological safety in both societal and organizational contexts. The journal seeks to cultivate an enriched understanding of how psychological
 safety, as a concept and a practice, can be harnessed to build more resilient, inclusive, and effective systems in our modern world.
 
-Learn more about our goals and objectives [here](https://psafe.org/goals/).
+Learn more about our goals and objectives [here](https://psafe.org/goals).
 
 ### Recent Articles
 
