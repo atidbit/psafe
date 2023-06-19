@@ -61,7 +61,7 @@
 				<div id="intro">
 					<p>
 						This is a XML Sitemap which is supposed to be processed by search engines like <a href="http://www.google.com">Google</a>, <a href="http://search.msn.com">MSN Search</a> and <a href="http://www.yahoo.com">YAHOO</a>.<br />
-						It was generated from <a href="http://www.podcastpup.com">PodcastPUP</a>.<br />
+						It was generated from <a href="http://www.psafe.org">PSafe</a>.<br />
 						You can find more information about XML sitemaps on <a href="http://sitemaps.org">sitemaps.org</a> and Google's <a href="http://code.google.com/sm_thirdparty.html">list of sitemap programs</a>.
 					</p>
 				</div>
