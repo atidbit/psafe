@@ -17,7 +17,7 @@ theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "PSafe Project: Psychological Safety"
-description: "Advancing the Knowledge of Psychological Safety."
+description: "Advancing the Knowledge of Psychological Safety"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://psafe.org"
 logo: # path of site logo, e.g. "/images/logo.png"
