@@ -18,7 +18,7 @@ psychological safety plays in teams and society_.
 Organizational Psychology, Rapid Review_
 
 <a href="https://zenodo.org/record/8053648/files/Influence_of_Psychological_Safety_A_Rapid_Review.pdf?download=1" target="_blank"><img src="/images/pdf-icon.png" style="vertical-align:middle; display:inline;"></a> || 
-DOI: <a href="https://doi.org/10.5281/zenodo.8053648" style="vertical-align:middle; display:inline;" target="_blank">https://doi.org/10.5281/zenodo.8053648</a>
+DOI: <a href="https://doi.org/10.5281/zenodo.8053648" target="_blank">https://doi.org/10.5281/zenodo.8053648</a>
 
 ISSN (Online): _XXXX-XXXX_
 <br><br>
