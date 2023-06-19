@@ -20,7 +20,7 @@ Organizational Psychology, Rapid Review_
 <a href="https://zenodo.org/record/8053648/files/Influence_of_Psychological_Safety_A_Rapid_Review.pdf?download=1" target="_blank"><img src="/images/pdf-icon.png" align="middle"></a> || 
 DOI: <a href="https://doi.org/10.5281/zenodo.8053648" target="_blank">https://doi.org/10.5281/zenodo.8053648</a>
 
-__________________________________________________________________________________________________
+<hr>
 
 ### INTRODUCTION
 
