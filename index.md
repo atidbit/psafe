@@ -8,6 +8,14 @@ safety, as a concept and a practice, can be harnessed to build more resilient, i
 Learn more about our goals and objectives [here](http://psafe.org/goals).
 
 ### Recent Articles
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title | truncatewords: 4 }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
 
 [The Influence of Psychological Safety on Team Dynamics, Performance, and Society: A Rapid Review](https://doi.org/10.5281/zenodo.8053647)
 
