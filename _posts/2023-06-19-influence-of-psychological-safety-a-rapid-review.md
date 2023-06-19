@@ -22,7 +22,7 @@ DOI: <a href="https://doi.org/10.5281/zenodo.8053648" align="middle" target="_bl
 
 ISSN (Online): _XXXX-XXXX_
 
-<hr>
+<hr style="margin-top:-1em">
 
 ### INTRODUCTION
 
