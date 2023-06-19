@@ -12,25 +12,10 @@ Learn more about our goals and objectives [here](http://psafe.org/goals).
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+1. [The Influence of Psychological Safety on Team Dynamics, Performance, and Society: A Rapid Review](https://doi.org/10.5281/zenodo.8053647)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Contribute and Join The Conversation
 
 Reddit: [r/PsychologicalSafety](https://i.reddit.com/r/PsychologicalSafety/)
