@@ -1,0 +1,7 @@
+# Robots.txt file PSafe.org
+#
+# All robots will spider the domain
+
+User-agent: *
+Disallow:
+Sitemap: http://www.psafe.org/sitemap.xml
