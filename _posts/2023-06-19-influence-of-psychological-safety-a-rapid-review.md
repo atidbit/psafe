@@ -112,7 +112,7 @@ summary, the pursuit of psychological safety within teams and society at large
 holds promise for the creation of a more inclusive, respectful, and 
 high-functioning environment for all.
 
-__________________________________________________________________________________________________
+<hr style="margin-top:-1em">
 
 ### REFERENCES
 
@@ -151,7 +151,8 @@ Newman, A., Donohue, R., & Eva, N. (2017). Psychological safety: A systematic
 review of the literature. _Human Resource Management Review, 27_(3), 521-535. 
 https://doi.org/10.1016/j.hrmr.2017.01.001
 
-__________________________________________________________________________________________________
+<br><br>
+_______________________________________________________________________________________________
 
 
 © 2023. This is an open access article distributed under the terms of the 
