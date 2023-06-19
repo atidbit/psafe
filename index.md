@@ -15,7 +15,7 @@ Learn more about our goals and objectives [here](http://psafe.org/goals).
 
 Reddit: [r/PsychologicalSafety](https://i.reddit.com/r/PsychologicalSafety/)
 
-Twitter: [@PSafe](https://twitter.com/psafe)
+Twitter: [@PSafeorg](https://twitter.com/PSafeorg)
 
 ### Contact Info
 
