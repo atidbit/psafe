@@ -1,18 +1,26 @@
-<!--  generator="PSafe.org"  -->
-<!-- sitemap-generator-version="3.0.3" -->
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>http://www.psafe.org/</loc>
-<lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
-<changefreq>always</changefreq>
-<priority>1.0</priority>
-</url>
+---
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>PSafe Project</title>
+ <link href="http://www.psafe.org/atom.xml" rel="self"/>
+ <link href="http://www.psafe.org"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://www.psafe.org</id>
+ <author>
+   <name>PSafe Project</name>
+   <email>project@psafe.org</email>
+ </author>
+
  {% for post in site.posts %}
-<url>
-<loc>http://www.psafe.org{{ post.url }}</loc>
-<lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority>
-</url>
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="http://www.psafe.org{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>http://www.psafe.org{{ post.id }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+ </entry>
  {% endfor %}
-</urlset>
+
+</feed>
