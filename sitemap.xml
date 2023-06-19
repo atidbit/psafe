@@ -4,7 +4,6 @@
 
 
  {% for post in site.posts %}
-
    <title>{{ post.title }}</title>
    <link href="http://www.psafe.org{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
