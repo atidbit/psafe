@@ -21,6 +21,7 @@ Organizational Psychology, Rapid Review_
 DOI: <a href="https://doi.org/10.5281/zenodo.8053648" target="_blank">https://doi.org/10.5281/zenodo.8053648</a>
 
 __________________________________________________________________________________________________
+
 ### INTRODUCTION
 
 This paper presents a rapid review centered on the concept of psychological safety. 
