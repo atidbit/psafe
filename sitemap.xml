@@ -2,11 +2,3 @@
 ---
  <updated>{{ site.time | date_to_xmlschema }}</updated>
 
- {% for post in site.posts %}
-   <title>{{ post.title }}</title>
-   <link href="http://www.psafe.org{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://www.psafe.org{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
- {% endfor %}
-
