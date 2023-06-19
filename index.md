@@ -9,13 +9,8 @@ Learn more about our goals and objectives [here](http://psafe.org/goals).
 
 ### Recent Articles
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[The Influence of Psychological Safety on Team Dynamics, Performance, and Society: A Rapid Review](https://doi.org/10.5281/zenodo.8053647)
 
-```markdown
-
-1. [The Influence of Psychological Safety on Team Dynamics, Performance, and Society: A Rapid Review](https://doi.org/10.5281/zenodo.8053647)
-
-```
 ### Contribute and Join The Conversation
 
 Reddit: [r/PsychologicalSafety](https://i.reddit.com/r/PsychologicalSafety/)
