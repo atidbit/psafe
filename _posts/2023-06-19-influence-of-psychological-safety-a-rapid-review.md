@@ -111,7 +111,7 @@ teams, but it also has far-reaching implications for the broader society. In
 summary, the pursuit of psychological safety within teams and society at large 
 holds promise for the creation of a more inclusive, respectful, and 
 high-functioning environment for all.
-
+<br><br>
 <hr style="margin-top:-1em;margin-bottom:+1em">
 
 ### REFERENCES
