@@ -1,6 +1,10 @@
 ---
 ---
-<urlset xmlns:xsl="http://www.psafe.org/includes/sitemap.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<xsl:stylesheet
+  version="1"
+  xmlns:xsl="includes/sitemap.xsl"
+</xsl:stylesheet>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.psafe.org/</loc>
 <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
