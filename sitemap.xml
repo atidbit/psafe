@@ -2,7 +2,7 @@
 ---
 <xsl:stylesheet
   version="1"
-  xmlns:xsl="includes/sitemap.xsl"
+  xmlns:xsl="includes/sitemap.xsl">
 </xsl:stylesheet>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
