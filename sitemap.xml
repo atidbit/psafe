@@ -1,7 +1,6 @@
-<xml-stylesheet type="text/xsl" href="http://www.psafe.org/includes/sitemap.xsl">
 --- generator=PSafe.org
 --- sitemap-generator-version=3.0.3
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns:xsl="/includes/sitemap.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.psafe.org/</loc>
 <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
