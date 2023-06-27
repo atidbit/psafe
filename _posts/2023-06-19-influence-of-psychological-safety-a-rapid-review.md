@@ -172,9 +172,9 @@ V. S. Brown (vernon [ at ] psafe.org) is with the PSafe Project, Honolulu, HI 96
 
 To cite this document:
 
-Brown, V. S. (2023). The influence of psychological safety on team dynamics, performance, 
+<span style="background-color: #f0f0f0;">Brown, V. S. (2023). The influence of psychological safety on team dynamics, performance, 
 and society: A rapid review. _Psychological Safety, Advancement and Review, 1_(1), 1-2. 
-https://doi.org/10.5281/zenodo.8053648
+https://doi.org/10.5281/zenodo.8053648</span>
 
 Permanent link to this document:
 <a href="https://doi.org/10.5281/zenodo.8053648" target="_blank">https://doi.org/10.5281/zenodo.8053648</a>
