@@ -5,7 +5,7 @@ title: The Influence of Psychological Safety on Team Dynamics, Performance, and 
 
 {{ page.title }}
 ================
-<meta name="citation_title" content="The testis isoform of the phosphorylase kinase catalytic subunit (PhK-T) plays a critical role in regulation of glycogen mobilization in developing lung">
+<meta name="citation_title" content="{{ page.title }}">
 <meta name="citation_author" content="Brown, Vernon S.">
 <meta name="citation_publication_date" content="2023/06/19">
 <meta name="citation_journal_title" content="Psychological Safety, Advancement and Review">
