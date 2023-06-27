@@ -51,6 +51,24 @@ table {
   font: 100%;
 }
 
+/*******************************THE BOX****************************************/
+#container {
+    height: 100px;
+    width: 300px;
+    border: 1px solid black;
+    position: relative;
+}
+
+#label {
+    position: absolute;
+    top: -10px;
+    left: 20px;
+    height: 20px;
+    width: 100px;
+    background-color: pink;
+    border: 2px solid red;
+    text-align: center;
+}
 /*****************************************************************************/
 /*
 /* Home
