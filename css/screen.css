@@ -17,13 +17,15 @@ html, body {
 
 body {
   background-color: white;
-  font: 13.34px helvetica, arial, clean, sans-serif;
+  font: 22px helvetica, arial, clean, sans-serif;
+  *font: 13.34px helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%;
+  *font-size: 100%;
+  font-size: 120%;
 }
 
 h1 {
@@ -79,11 +81,18 @@ ul.posts {
 /*****************************************************************************/
 
 .site {
-  font-size: 110%;
+  font-size: 120%;
+  *font-size: 110%;
   text-align: justify;
+  *text-align: justify;
   width: 42em;
   margin: 3em auto 2em auto;
   line-height: 1.5em;
+}
+
+*ADDED
+.site, ul.posts li {
+  line-height: 1.6;
 }
 
 .title {
@@ -141,6 +150,12 @@ ul.posts {
       .site .footer .rss img {
         border: 0;
       }
+
+*ADDED
+.site .footer {
+  font-size: 100%;
+  line-height: 1.6;
+}
 
 /*****************************************************************************/
 /*
