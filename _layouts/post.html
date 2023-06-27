@@ -4,9 +4,8 @@ layout: default
 <div id="post">
 {{ content }}
 </div>
-<hr>
+<hr style="margin-top:-1em;margin-bottom:+1em">
 <div id="related">
-  <br />
   <h2>Related Articles</h2>
   <ul class="posts">
     {% for post in site.related_posts limit:3 %}
