@@ -70,6 +70,7 @@ ul.posts span {
   color: #a00;
   font-family: Monaco, "Courier New", monospace;
   font-size: 120%;
+  font-weight: bold;
 }
 
 /*****************************************************************************/
@@ -113,6 +114,7 @@ ul.posts span {
 
 .site .meta {
   color: #a00;
+  font-weight: bold;
 }
 
 .site .footer {
