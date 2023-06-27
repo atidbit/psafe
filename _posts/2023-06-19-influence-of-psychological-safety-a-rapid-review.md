@@ -13,7 +13,7 @@ title: The Influence of Psychological Safety on Team Dynamics, Performance, and 
 <meta name="citation_issue" content="1">
 <meta name="citation_firstpage" content="1">
 <meta name="citation_lastpage" content="2">
-<meta name="citation_pdf_url" content="https://zenodo.org/record/8053648/files/Influence_of_Psychological_Safety_A_Rapid_Review.pdf?download=1">
+<meta name="citation_pdf_url" content="https://zenodo.org/record/8053648/files/Influence_of_Psychological_Safety_A_Rapid_Review.pdf">
 
 <p class="meta">19 June 2023</p>
 
