@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Influence of Psychological Safety on Team Dynamics, Performance, and Society - A Rapid Review
+title: The Influence of Psychological Safety on Team Dynamics, Performance, and Society":" A Rapid Review
 ---
 
 {{ page.title }}
