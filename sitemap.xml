@@ -19,6 +19,12 @@
 <changefreq>always</changefreq>
 <priority>0.5</priority>
 </url>
+ <url>
+<loc>http://www.psafe.org/psar/</loc>
+<lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+<changefreq>always</changefreq>
+<priority>0.5</priority>
+</url>
  {% for post in site.posts %}
 <url>
 <loc>http://www.psafe.org{{ post.url }}</loc>
