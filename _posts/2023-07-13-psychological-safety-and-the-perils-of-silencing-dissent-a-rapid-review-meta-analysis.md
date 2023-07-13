@@ -5,17 +5,17 @@ title: 'Psychological Safety and the Perils of Silencing Dissent: A Rapid Review
 
 {{ page.title }}
 ================
-<head>
-<meta name="citation_title" content="{{ page.title }}">
-<meta name="citation_author" content="Brown, Vernon S.">
-<meta name="citation_publication_date" content="2023/07/13">
-<meta name="citation_journal_title" content="Psychological Safety, Advancement and Review">
-<meta name="citation_volume" content="1">
-<meta name="citation_issue" content="1">
-<meta name="citation_firstpage" content="3">
-<meta name="citation_lastpage" content="5">
-<meta name="citation_pdf_url" content="https://zenodo.org/record/8140985/files/Psychological_Safety_and_the_Perils_of_Silencing_Dissent_A_Rapid_Review_Meta-Analysis.pdf">
-</head>
+---
+meta1: '<meta name="citation_title" content="{{ page.title }}">'
+meta2: '<meta name="citation_author" content="Brown, Vernon S.">'
+meta3: '<meta name="citation_publication_date" content="2023/07/13">'
+meta4: '<meta name="citation_journal_title" content="Psychological Safety, Advancement and Review">'
+meta5: '<meta name="citation_volume" content="1">'
+meta6: '<meta name="citation_issue" content="1">'
+meta7: '<meta name="citation_firstpage" content="3">'
+meta8: '<meta name="citation_lastpage" content="5">'
+meta9: '<meta name="citation_pdf_url" content="https://zenodo.org/record/8140985/files/Psychological_Safety_and_the_Perils_of_Silencing_Dissent_A_Rapid_Review_Meta-Analysis.pdf">'
+---
 
 <p class="meta">13 July 2023</p>
 
