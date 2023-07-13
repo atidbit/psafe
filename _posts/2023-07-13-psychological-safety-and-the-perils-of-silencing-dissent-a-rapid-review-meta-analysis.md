@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TPsychological Safety and the Perils of Silencing Dissent: A Rapid Review Meta-Analysis'
+title: 'Psychological Safety and the Perils of Silencing Dissent: A Rapid Review Meta-Analysis'
 ---
 
 {{ page.title }}
