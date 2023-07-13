@@ -11,8 +11,8 @@ title: 'Psychological Safety and the Perils of Silencing Dissent: A Rapid Review
 <meta name="citation_journal_title" content="Psychological Safety, Advancement and Review">
 <meta name="citation_volume" content="1">
 <meta name="citation_issue" content="1">
-<meta name="citation_firstpage" content="1">
-<meta name="citation_lastpage" content="2">
+<meta name="citation_firstpage" content="3">
+<meta name="citation_lastpage" content="5">
 <meta name="citation_pdf_url" content="https://zenodo.org/record/8140985/files/Psychological_Safety_and_the_Perils_of_Silencing_Dissent_A_Rapid_Review_Meta-Analysis.pdf">
 
 <p class="meta">13 July 2023</p>
