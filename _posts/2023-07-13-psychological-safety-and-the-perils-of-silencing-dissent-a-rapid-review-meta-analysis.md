@@ -1,11 +1,6 @@
 ---
 layout: post
 title: 'Psychological Safety and the Perils of Silencing Dissent: A Rapid Review Meta-Analysis'
----
-
-{{ page.title }}
-================
----
 meta1: '<meta name="citation_title" content="{{ page.title }}">'
 meta2: '<meta name="citation_author" content="Brown, Vernon S.">'
 meta3: '<meta name="citation_publication_date" content="2023/07/13">'
@@ -16,6 +11,9 @@ meta7: '<meta name="citation_firstpage" content="3">'
 meta8: '<meta name="citation_lastpage" content="5">'
 meta9: '<meta name="citation_pdf_url" content="https://zenodo.org/record/8140985/files/Psychological_Safety_and_the_Perils_of_Silencing_Dissent_A_Rapid_Review_Meta-Analysis.pdf">'
 ---
+
+{{ page.title }}
+================
 
 <p class="meta">13 July 2023</p>
 
