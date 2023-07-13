@@ -6,7 +6,7 @@
    <meta name="author" content="PSafe Project: Psychological Safety, Advancement and Review (PSAR)" />
    <link href="http://psafe.org/atom.xml" rel="alternate" title="PSafe Project: Psychological Safety, Advancement and Review (PSAR)" type="application/atom+xml" />
    <meta name="readability-verification" content="QCzSs992GxmRYRKVpPeZ6LE2tS8aYKxsSSQKV8YM"/>
-   {% if page.meta != 1 %}
+   {% for post in site.posts %}
    {{ page.meta1 }}
    {{ page.meta2 }}
    {{ page.meta3 }}
@@ -16,7 +16,7 @@
    {{ page.meta7 }}
    {{ page.meta8 }}
    {{ page.meta9 }}
-    {% endif %}
+    {% endfor %}
    <!-- syntax highlighting CSS -->
    <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
 
