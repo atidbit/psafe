@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Psychological Safety and the Perils of Silencing Dissent: A Rapid Review Meta-Analysis'
-meta1: '<meta name="citation_title" content=""{{ page.title }}"">'
+meta1: <meta name="citation_title" content="{{ page.title }}">
 meta2: '<meta name="citation_author" content="Brown, Vernon S.">'
 meta3: '<meta name="citation_publication_date" content="2023/07/13">'
 meta4: '<meta name="citation_journal_title" content="Psychological Safety, Advancement and Review">'
