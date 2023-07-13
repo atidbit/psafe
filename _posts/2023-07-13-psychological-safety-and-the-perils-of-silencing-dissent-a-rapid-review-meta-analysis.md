@@ -7,15 +7,15 @@ title: 'Psychological Safety and the Perils of Silencing Dissent: A Rapid Review
 ================
 <meta name="citation_title" content="{{ page.title }}">
 <meta name="citation_author" content="Brown, Vernon S.">
-<meta name="citation_publication_date" content="2023/06/19">
+<meta name="citation_publication_date" content="2023/07/13">
 <meta name="citation_journal_title" content="Psychological Safety, Advancement and Review">
 <meta name="citation_volume" content="1">
 <meta name="citation_issue" content="1">
 <meta name="citation_firstpage" content="1">
 <meta name="citation_lastpage" content="2">
-<meta name="citation_pdf_url" content="https://zenodo.org/record/8053648/files/Influence_of_Psychological_Safety_A_Rapid_Review.pdf">
+<meta name="citation_pdf_url" content="https://zenodo.org/record/8140985/files/Psychological_Safety_and_the_Perils_of_Silencing_Dissent_A_Rapid_Review_Meta-Analysis.pdf">
 
-<p class="meta">19 June 2023</p>
+<p class="meta">13 July 2023</p>
 
 **Abstract** — _The role of psychological safety in organizations is critical in fostering innovative thinking, encouraging transparent communication, and promoting employee engagement. Despite its importance, a culture of psychological safety may be jeopardized when dissenting voices are silenced. This paper provides a comprehensive examination of psychological safety and the dangers of suppressing dissent within organizations. Through a rapid review meta-analysis of key studies, this paper elucidates the concept of psychological safety, discusses the adverse impacts of discouraging dissent, and reveals the pivotal role of leadership in promoting a culture of openness and safety. Our findings underscore the importance of an organizational environment where dissent is seen as an opportunity for learning and growth rather than as a threat. Recommendations for future research are suggested to further expand the understanding of these phenomena and to explore effective interventions for creating psychologically safe workplaces. This research has important implications for organizational leaders, human resource professionals, and policy-makers seeking to foster a culture of psychological safety in their organizations_.
 
