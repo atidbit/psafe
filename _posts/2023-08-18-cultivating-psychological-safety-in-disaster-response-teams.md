@@ -393,8 +393,7 @@ Turner, J., & Harder, N. (2018). Psychological safety: It's not about being nice
 50_(3), 14-20. https://doi.org/10.1002/mgr.2282
 
 Watson, C., & Clandinin, D. J. (2017). Psychological safety in teams: Lessons from island 
-communities. _Community
-e, 2_(2), 84-97.
+communities. _Community Dynamics and Resilience, 2_(2), 84-97.
 https://doi.org/10.1007/s41247-017-0037-0
 
 _______________________________________________________________________________________________
