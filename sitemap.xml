@@ -2,32 +2,32 @@
 ---
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://www.psafe.org/</loc>
+<loc>https://psafe.org/</loc>
 <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
 <changefreq>always</changefreq>
 <priority>1.0</priority>
 </url>
 <url>
-<loc>https://www.psafe.org/goals/</loc>
+<loc>https://psafe.org/goals/</loc>
 <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
 <changefreq>always</changefreq>
 <priority>0.5</priority>
 </url>
 <url>
-<loc>https://www.psafe.org/contact/</loc>
+<loc>https://psafe.org/contact/</loc>
 <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
 <changefreq>always</changefreq>
 <priority>0.5</priority>
 </url>
  <url>
-<loc>https://www.psafe.org/psar/</loc>
+<loc>https://psafe.org/psar/</loc>
 <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
 <changefreq>always</changefreq>
 <priority>0.5</priority>
 </url>
  {% for post in site.posts %}
 <url>
-<loc>https://www.psafe.org{{ post.url }}</loc>
+<loc>https://psafe.org{{ post.url }}</loc>
 <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
