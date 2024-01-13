@@ -253,6 +253,7 @@ teams are best managed throughout a range of disaster scenarios from short to lo
 Interdisciplinary Collaboration: Given that disaster response often requires multidisciplinary teams, 
 research on how to foster psychological safety across professionals from diverse 
 fields (e.g., medical, environmental, logistical) would be beneficial.
+
 Impact on Mental Health: Future research should analyze the long-term mental health outcomes of 
 team members who have consistently operated in an environment with high psychological safety versus 
 those who haven’t. With mental health issues on the rise, this could prove beneficial in not only 
@@ -269,6 +270,7 @@ provide a toolkit for disaster response organizers.
 Public Perception and Media: Investigate the influence of public perception and media portrayal on 
 the psychological safety of disaster response teams. In the age of real-time news and social media, 
 the public's view can significantly influence team dynamics.
+
 Personal Narratives: Employ ethnographic research methods to collect in-depth personal narratives 
 and stories. These can provide rich insights into the lived experiences of team members, offering a 
 deeper understanding of challenges and solutions related to psychological safety.
@@ -282,6 +284,7 @@ critical teams and the well-being of their members.
 Understanding the pivotal role of psychological safety in disaster response teams offers 
 valuable insights for policymakers, team leaders, and response coordinators across various 
 settings. Here are some practical implications derived from our study:
+
 Training Programs for Leadership: Governments and organizations should invest in training 
 programs focused on cultivating psychological safety. Leaders equipped with the knowledge 
 and tools to foster an environment of trust, mutual respect, and open communication can 
