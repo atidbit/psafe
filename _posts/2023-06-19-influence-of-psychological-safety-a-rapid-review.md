@@ -14,7 +14,7 @@ meta9: '<meta name="citation_pdf_url" content="https://psafe.org/pdf/06192023">'
 
 {{ page.title }}
 ================
-<!-- Add icon library -->
+<!-- Add PDF Button Start -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 .btn {
@@ -30,6 +30,7 @@ meta9: '<meta name="citation_pdf_url" content="https://psafe.org/pdf/06192023">'
   background-color: RoyalBlue;
 }
 </style>
+<!-- Add PDF Button End -->
 <p class="meta">19 June 2023</p>
 
 **Abstract** — _This rapid review provides a summary analysis of the concept of 
