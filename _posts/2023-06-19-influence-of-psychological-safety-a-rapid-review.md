@@ -1,3 +1,19 @@
+---
+layout: post
+title: 'The Influence of Psychological Safety on Team Dynamics, Performance, and Society: A Rapid Review'
+meta1: '<meta name="citation_title" content="The Influence of Psychological Safety on Team Dynamics, Performance, and Society: A Rapid Review">'
+meta2: '<meta name="citation_author" content="Brown, Vernon S.">'
+meta3: '<meta name="citation_publication_date" content="2023/06/19">'
+meta4: '<meta name="citation_journal_title" content="Psychological Safety, Advancement and Review">'
+meta5: '<meta name="citation_volume" content="1">'
+meta6: '<meta name="citation_issue" content="1">'
+meta7: '<meta name="citation_firstpage" content="1">'
+meta8: '<meta name="citation_lastpage" content="2">'
+meta9: '<meta name="citation_pdf_url" content="https://psafe.org/pdf/06192023">'
+---
+
+{{ page.title }}
+================
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
@@ -15,23 +31,6 @@
   background-color: RoyalBlue;
 }
 </style>
----
-layout: post
-title: 'The Influence of Psychological Safety on Team Dynamics, Performance, and Society: A Rapid Review'
-meta1: '<meta name="citation_title" content="The Influence of Psychological Safety on Team Dynamics, Performance, and Society: A Rapid Review">'
-meta2: '<meta name="citation_author" content="Brown, Vernon S.">'
-meta3: '<meta name="citation_publication_date" content="2023/06/19">'
-meta4: '<meta name="citation_journal_title" content="Psychological Safety, Advancement and Review">'
-meta5: '<meta name="citation_volume" content="1">'
-meta6: '<meta name="citation_issue" content="1">'
-meta7: '<meta name="citation_firstpage" content="1">'
-meta8: '<meta name="citation_lastpage" content="2">'
-meta9: '<meta name="citation_pdf_url" content="https://psafe.org/pdf/06192023">'
----
-
-{{ page.title }}
-================
-
 <p class="meta">19 June 2023</p>
 
 **Abstract** — _This rapid review provides a summary analysis of the concept of 
