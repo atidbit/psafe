@@ -42,7 +42,7 @@ psychological safety plays in teams and society_.
 **Keywords** — _Psychological Safety, Team Dynamics, Team Performance, Society, 
 Organizational Psychology, Rapid Review_
 
-<a href="https://psafe.org/pdf/06192023" target=_blank"><button class="btn"><i class="fa fa-download"></i> PDF</button></a> 
+<a href="https://psafe.org/pdf/06192023" target="_blank"><button class="btn"><i class="fa fa-download"></i> PDF</button></a> 
 DOI: <a href="https://doi.org/10.5281/zenodo.8053648" target="_blank">https://doi.org/10.5281/zenodo.8053648</a>
 
 ISSN (Online): _Pending_
