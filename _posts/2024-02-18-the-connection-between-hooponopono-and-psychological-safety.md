@@ -157,7 +157,7 @@ V. S. Brown (vernon [ at ] psafe.org) is with the PSafe Project, Honolulu, HI 96
 To cite this document:
 
 Brown, V. S. (2024). The connection between ho’oponopono and psychological safety. _Psychological Safety, Advancement and Review, 2_(1), 1-4. 
-https://zenodo.org/doi/10.5281/zenodo.8374434
+https://doi.org/10.5281/zenodo.8374435
 
 Permanent link to this document:
-<a href="https://zenodo.org/doi/10.5281/zenodo.8374434" target="_blank">https://zenodo.org/doi/10.5281/zenodo.8374434</a>
+<a href="https://doi.org/10.5281/zenodo.8374434" target="_blank">https://doi.org/10.5281/zenodo.8374434</a>
