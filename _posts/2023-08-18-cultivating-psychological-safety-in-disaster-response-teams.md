@@ -9,7 +9,7 @@ meta5: '<meta name="citation_volume" content="1">'
 meta6: '<meta name="citation_issue" content="1">'
 meta7: '<meta name="citation_firstpage" content="6">'
 meta8: '<meta name="citation_lastpage" content="10">'
-meta9: '<meta name="citation_pdf_url" content="https://zenodo.org/record/8260482/files/A_Comparative_Study_of_Natural_Disasters_and_Epidemics.pdf">'
+meta9: '<meta name="citation_pdf_url" content="https://psafe.org/pdf/08182023">'
 ---
 
 {{ page.title }}
@@ -35,7 +35,7 @@ of psychological safety in disaster management_.
 **Keywords** — _Psychological Safety, Disaster Response, Epidemics, Natural Disasters, 
 Team Dynamics, Hawaiian Islands, Wildfires, COVID-19_
 
-<a href="https://zenodo.org/record/8260482/files/A_Comparative_Study_of_Natural_Disasters_and_Epidemics.pdf?download=1" target="_blank"><img src="/images/pdf-icon.png" style="vertical-align:middle; display:inline;"></a> || 
+<a href="https://psafe.org/pdf/08182023" target="_blank"><img src="/images/pdf-icon.png" style="vertical-align:middle; display:inline;"></a> || 
 DOI: <a href="https://doi.org/10.5281/zenodo.8260482" target="_blank">https://doi.org/10.5281/zenodo.8260482</a>
 
 ISSN (Online): _Pending_
