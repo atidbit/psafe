@@ -9,7 +9,7 @@ meta5: '<meta name="citation_volume" content="1">'
 meta6: '<meta name="citation_issue" content="1">'
 meta7: '<meta name="citation_firstpage" content="1">'
 meta8: '<meta name="citation_lastpage" content="2">'
-meta9: '<meta name="citation_pdf_url" content="https://zenodo.org/record/8053648/files/Influence_of_Psychological_Safety_A_Rapid_Review.pdf">'
+meta9: '<meta name="citation_pdf_url" content="https://psafe.org/pdf/06192023">'
 ---
 
 {{ page.title }}
@@ -26,7 +26,7 @@ psychological safety plays in teams and society_.
 **Keywords** — _Psychological Safety, Team Dynamics, Team Performance, Society, 
 Organizational Psychology, Rapid Review_
 
-<a href="https://zenodo.org/record/8053648/files/Influence_of_Psychological_Safety_A_Rapid_Review.pdf?download=1" target="_blank"><img src="/images/pdf-icon.png" style="vertical-align:middle; display:inline;"></a> || 
+<a href="https://psafe.org/pdf/06192023" target="_blank"><img src="/images/pdf-icon.png" style="vertical-align:middle; display:inline;"></a> || 
 DOI: <a href="https://doi.org/10.5281/zenodo.8053648" target="_blank">https://doi.org/10.5281/zenodo.8053648</a>
 
 ISSN (Online): _Pending_
