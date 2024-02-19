@@ -14,7 +14,23 @@ meta9: '<meta name="citation_pdf_url" content="https://psafe.org/pdf/08182023">'
 
 {{ page.title }}
 ================
-
+<!-- Add PDF Button Start -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
+</style>
+<!-- Add PDF Button End -->
 <p class="meta">18 August 2023</p>
 
 **Abstract** — _The management of disasters, whether natural phenomena like 
