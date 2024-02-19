@@ -1,3 +1,20 @@
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
+</style>
 ---
 layout: post
 title: 'The Influence of Psychological Safety on Team Dynamics, Performance, and Society: A Rapid Review'
@@ -28,6 +45,7 @@ Organizational Psychology, Rapid Review_
 
 <a href="https://psafe.org/pdf/06192023" target="_blank"><img src="/images/pdf-icon.png" style="vertical-align:middle; display:inline;"></a> || 
 DOI: <a href="https://doi.org/10.5281/zenodo.8053648" target="_blank">https://doi.org/10.5281/zenodo.8053648</a>
+<button class="btn"><i class="fa fa-download"></i> Download</button>
 
 ISSN (Online): _Pending_
 <br><br>
