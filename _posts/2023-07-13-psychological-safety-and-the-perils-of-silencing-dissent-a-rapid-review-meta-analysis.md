@@ -37,7 +37,7 @@ meta9: '<meta name="citation_pdf_url" content="https://psafe.org/pdf/07132023">'
 
 **Keywords** — _Psychological Safety, Dissent, Employee Silence, Leadership, Organizational Culture, Meta-Analysis, Employee Voice, Organizational Behavior_
 
-<a href="https://psafe.org/pdf/07132023" target="_blank"><button class="btn"><i class="fa fa-download"></i> PDF</button></a> || 
+<a href="https://psafe.org/pdf/07132023" target="_blank"><button class="btn"><i class="fa fa-download"></i> PDF</button></a> 
 DOI: <a href="https://doi.org/10.5281/zenodo.8140985" target="_blank">https://doi.org/10.5281/zenodo.8140985</a>
 
 ISSN (Online): _Pending_
