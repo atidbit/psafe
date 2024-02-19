@@ -51,7 +51,7 @@ of psychological safety in disaster management_.
 **Keywords** — _Psychological Safety, Disaster Response, Epidemics, Natural Disasters, 
 Team Dynamics, Hawaiian Islands, Wildfires, COVID-19_
 
-<a href="https://psafe.org/pdf/08182023" target="_blank"><button class="btn"><i class="fa fa-download"></i> PDF</button></a> 
+<a href="https://psafe.org/pdf/08182023" download><button class="btn"><i class="fa fa-download"></i> PDF</button></a> 
 DOI: <a href="https://doi.org/10.5281/zenodo.8260482" target="_blank">https://doi.org/10.5281/zenodo.8260482</a>
 
 ISSN (Online): _Pending_
