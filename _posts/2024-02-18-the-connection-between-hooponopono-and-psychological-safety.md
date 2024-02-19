@@ -9,7 +9,7 @@ meta5: '<meta name="citation_volume" content="2">'
 meta6: '<meta name="citation_issue" content="1">'
 meta7: '<meta name="citation_firstpage" content="1">'
 meta8: '<meta name="citation_lastpage" content="4">'
-meta9: '<meta name="citation_pdf_url" content="https://zenodo.org/records/10676881/files/The_Connection_Between_Ho%E2%80%99oponopono_and_Psychological_Safety.pdf">'
+meta9: '<meta name="citation_pdf_url" content="https://psafe.org/pdf/02182024">'
 ---
 
 {{ page.title }}
@@ -21,7 +21,7 @@ meta9: '<meta name="citation_pdf_url" content="https://zenodo.org/records/106768
 
 **Keywords** — _Ho’oponopono, Psychological Safety, Team Dynamics, Reconciliation, Organizational Culture, Oganizational Climate, Conflict Resolution_
 
-<a href="https://zenodo.org/records/10676881/files/The_Connection_Between_Ho%E2%80%99oponopono_and_Psychological_Safety.pdf?download=1" target="_blank"><img src="/images/pdf-icon.png" style="vertical-align:middle; display:inline;"></a> || 
+<a href="https://psafe.org/pdf/02182024" target="_blank"><img src="/images/pdf-icon.png" style="vertical-align:middle; display:inline;"></a> || 
 DOI: <a href="https://doi.org/10.5281/zenodo.8374435" target="_blank">https://doi.org/10.5281/zenodo.8374435</a>
 
 ISSN (Online): _Pending_
