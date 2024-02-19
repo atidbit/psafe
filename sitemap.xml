@@ -25,6 +25,30 @@
 <changefreq>always</changefreq>
 <priority>0.5</priority>
 </url>
+ <url>
+<loc>https://psafe.org/PDF/Influence_of_Psychological_Safety_A_Rapid_Review.pdf</loc>
+<lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+<changefreq>always</changefreq>
+<priority>0.5</priority>
+</url>
+ <url>
+<loc>https://psafe.org/PDF/Psychological_Safety_and_the_Perils_of_Silencing_Dissent_A_Rapid_Review_Meta-Analysis.pdf</loc>
+<lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+<changefreq>always</changefreq>
+<priority>0.5</priority>
+</url>
+ <url>
+<loc>https://psafe.org/PDF/A_Comparative_Study_of_Natural_Disasters_and_Epidemics.pdf</loc>
+<lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+<changefreq>always</changefreq>
+<priority>0.5</priority>
+</url>
+ <url>
+<loc>https://psafe.org/PDF/The_Connection_Between_Ho’oponopono_and_Psychological_Safety.pdf</loc>
+<lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+<changefreq>always</changefreq>
+<priority>0.5</priority>
+</url>
  {% for post in site.posts %}
 <url>
 <loc>https://psafe.org{{ post.url }}</loc>
