@@ -9,7 +9,7 @@ meta5: '<meta name="citation_volume" content="1">'
 meta6: '<meta name="citation_issue" content="1">'
 meta7: '<meta name="citation_firstpage" content="3">'
 meta8: '<meta name="citation_lastpage" content="5">'
-meta9: '<meta name="citation_pdf_url" content="https://zenodo.org/record/8140985/files/Psychological_Safety_and_the_Perils_of_Silencing_Dissent_A_Rapid_Review_Meta-Analysis.pdf">'
+meta9: '<meta name="citation_pdf_url" content="https://psafe.org/pdf/07132023">'
 ---
 
 {{ page.title }}
@@ -21,7 +21,7 @@ meta9: '<meta name="citation_pdf_url" content="https://zenodo.org/record/8140985
 
 **Keywords** — _Psychological Safety, Dissent, Employee Silence, Leadership, Organizational Culture, Meta-Analysis, Employee Voice, Organizational Behavior_
 
-<a href="https://zenodo.org/record/8140985/files/Psychological_Safety_and_the_Perils_of_Silencing_Dissent_A_Rapid_Review_Meta-Analysis.pdf?download=1" target="_blank"><img src="/images/pdf-icon.png" style="vertical-align:middle; display:inline;"></a> || 
+<a href="https://psafe.org/pdf/07132023" target="_blank"><img src="/images/pdf-icon.png" style="vertical-align:middle; display:inline;"></a> || 
 DOI: <a href="https://doi.org/10.5281/zenodo.8140985" target="_blank">https://doi.org/10.5281/zenodo.8140985</a>
 
 ISSN (Online): _Pending_
