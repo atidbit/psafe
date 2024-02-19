@@ -25,7 +25,6 @@ meta9: '<meta name="citation_pdf_url" content="https://psafe.org/pdf/06192023">'
   cursor: pointer;
   font-size: 20px;
 }
-
 /* Darker background on mouse-over */
 .btn:hover {
   background-color: RoyalBlue;
@@ -42,9 +41,9 @@ psychological safety plays in teams and society_.
 **Keywords** — _Psychological Safety, Team Dynamics, Team Performance, Society, 
 Organizational Psychology, Rapid Review_
 
+<button class="btn"><i class="fa fa-download"></i> PDF</button>
 <a href="https://psafe.org/pdf/06192023" target="_blank"><img src="/images/pdf-icon.png" style="vertical-align:middle; display:inline;"></a> || 
 DOI: <a href="https://doi.org/10.5281/zenodo.8053648" target="_blank">https://doi.org/10.5281/zenodo.8053648</a>
-<button class="btn"><i class="fa fa-download"></i> Download</button>
 
 ISSN (Online): _Pending_
 <br><br>
