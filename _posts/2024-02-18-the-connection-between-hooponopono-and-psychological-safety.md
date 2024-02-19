@@ -1,28 +1,28 @@
 ---
 layout: post
-title: 'Psychological Safety and the Perils of Silencing Dissent: A Rapid Review Meta-Analysis'
-meta1: '<meta name="citation_title" content="Psychological Safety and the Perils of Silencing Dissent: A Rapid Review Meta-Analysis">'
+title: 'The Connection Between Ho'oponopono and Psychological Safety'
+meta1: '<meta name="citation_title" content="The Connection Between Ho'oponopono and Psychological Safety">'
 meta2: '<meta name="citation_author" content="Brown, Vernon S.">'
-meta3: '<meta name="citation_publication_date" content="2023/07/13">'
+meta3: '<meta name="citation_publication_date" content="2024/02/18">'
 meta4: '<meta name="citation_journal_title" content="Psychological Safety, Advancement and Review">'
-meta5: '<meta name="citation_volume" content="1">'
+meta5: '<meta name="citation_volume" content="2">'
 meta6: '<meta name="citation_issue" content="1">'
-meta7: '<meta name="citation_firstpage" content="3">'
-meta8: '<meta name="citation_lastpage" content="5">'
-meta9: '<meta name="citation_pdf_url" content="https://zenodo.org/record/8140985/files/Psychological_Safety_and_the_Perils_of_Silencing_Dissent_A_Rapid_Review_Meta-Analysis.pdf">'
+meta7: '<meta name="citation_firstpage" content="1">'
+meta8: '<meta name="citation_lastpage" content="4">'
+meta9: '<meta name="citation_pdf_url" content="https://zenodo.org/records/8374435/files/The_Connection_Between_Ho%E2%80%99oponopono_and_Psychological_Safety.pdf">'
 ---
 
 {{ page.title }}
 ================
 
-<p class="meta">13 July 2023</p>
+<p class="meta">18 February 2043</p>
 
-**Abstract** — _The role of psychological safety in organizations is critical in fostering innovative thinking, encouraging transparent communication, and promoting employee engagement. Despite its importance, a culture of psychological safety may be jeopardized when dissenting voices are silenced. This paper provides a comprehensive examination of psychological safety and the dangers of suppressing dissent within organizations. Through a rapid review meta-analysis of key studies, this paper elucidates the concept of psychological safety, discusses the adverse impacts of discouraging dissent, and reveals the pivotal role of leadership in promoting a culture of openness and safety. Our findings underscore the importance of an organizational environment where dissent is seen as an opportunity for learning and growth rather than as a threat. Recommendations for future research are suggested to further expand the understanding of these phenomena and to explore effective interventions for creating psychologically safe workplaces. This research has important implications for organizational leaders, human resource professionals, and policy-makers seeking to foster a culture of psychological safety in their organizations_.
+**Abstract** — _This paper explores the potential connections between the Indigenous Hawaiian practice of ho’oponopono and modern constructs of psychological safety in teams. Ho’oponopono is a cultural tradition focused on conflict resolution through collective responsibility, repentance, forgiveness, and reconciliation. Psychological safety describes a group climate characterized by interpersonal trust, inclusion, and risk-taking. At first glance, these concepts may seem unrelated. Analysis reveals notable alignments between ho’oponopono principles and psychological safety aims of mitigating fear, restoring trust, and enabling participation after setbacks. However, thoughtfulness is needed when translating communal ho’oponopono practices into contemporary organizational contexts. While ho’oponopono holds lessons for psychological safety in society, careful adaptation and more research is needed on implementation. With sensitivity, the harmony and foundation of ho’oponopono could meaningfully complement techniques for cooperation in organizations and larger societal issues_.
 
-**Keywords** — _Psychological Safety, Dissent, Employee Silence, Leadership, Organizational Culture, Meta-Analysis, Employee Voice, Organizational Behavior_
+**Keywords** — _Ho’oponopono, Psychological Safety, Team Dynamics, Reconciliation, Organizational Culture, Oganizational Climate, Conflict Resolution_
 
-<a href="https://zenodo.org/record/8140985/files/Psychological_Safety_and_the_Perils_of_Silencing_Dissent_A_Rapid_Review_Meta-Analysis.pdf?download=1" target="_blank"><img src="/images/pdf-icon.png" style="vertical-align:middle; display:inline;"></a> || 
-DOI: <a href="https://doi.org/10.5281/zenodo.8140985" target="_blank">https://doi.org/10.5281/zenodo.8140985</a>
+<a href="https://zenodo.org/records/8374435/files/The_Connection_Between_Ho%E2%80%99oponopono_and_Psychological_Safety.pdf?download=1" target="_blank"><img src="/images/pdf-icon.png" style="vertical-align:middle; display:inline;"></a> || 
+DOI: <a href="https://zenodo.org/doi/10.5281/zenodo.8374434" target="_blank">https://zenodo.org/doi/10.5281/zenodo.8374434</a>
 
 ISSN (Online): _Pending_
 <br><br>
@@ -30,171 +30,124 @@ ISSN (Online): _Pending_
 
 ### INTRODUCTION
 
-Psychological safety refers to an individual's perception of the potential consequences 
-of taking interpersonal risks in a work environment (Edmondson, 2004). This sense of 
-safety can play a crucial role in nurturing a collaborative and innovative culture within organizations.
+_Ho’oponopono_ is an ancient Hawaiian cultural practice focused on conflict resolution,
+forgiveness, and relationship restoration (Moore, 2023). The practice itself involves accepting
+responsibility, repenting, reconciling, and moving forward. Psychological safety on the other hand
+describes a workplace climate where people feel comfortable expressing themselves and taking
+interpersonal risks without fear of negative consequences (Edmondson, 1999). At first glance,
+_ho’oponopono_ and psychological safety may seem unrelated. However, deeper analysis reveals
+several interesting parallels and potential connections between this Indigenous approach and
+modern concepts of team dynamics.
 
-In tandem with the concept of psychological safety, this paper discusses the potential 
-perils of silencing dissent within organizations. The suppression of contrarian views 
-can significantly inhibit an organization's capacity for innovation (Milliken et al., 2003).
+### HO’OPONOPONO’S FOCUS ON SHARED RESPONSIBILITY
 
-Moreover, this study aims to bridge the existent gap in the literature regarding 
-psychological safety and the dangers of silencing dissent. By compiling and analyzing 
-various studies, this paper provides insights to help organizations foster psychologically 
-safe environments where diverse viewpoints are encouraged and valued.
+A core tenet of _ho’oponopono_ is collectively accepting responsibility and accountability,
+regardless of direct fault or blame, in order to make things right (Moore, 2023). This core tenet
+aligns closely with psychological safety’s emphasis on moving away from finger-pointing when
+failures occur and instead adopting a systemic mindset focused on overall improvement
+(Edmondson, 1999). _Ho’oponopono_ at its core provides a process for acknowledging
+interdependence and assuming shared responsibility for correcting relationship problems or lapses in 
+judgment. When groups practice this principle of collective responsibility found in _ho’oponopono_ rather 
+than identifying scapegoats, it can foster an environment where people feel psychologically safe to 
+take risks, admit mistakes, and be vulnerable without fear of embarrassment or retaliation.
 
-### METHODOLOGY
+### PROMOTING REPENTANCE AND FORGIVENESS
 
-This research utilizes the rapid review meta-analysis approach. This approach 
-accelerates the systematic review method, enabling the efficient synthesis of 
-existing knowledge on a particular subject (Haby et al., 2016).
+After accepting shared responsibility, the next phase of _ho’oponopono_ traditionally involves 
+reflection, discussion, confession, repentance, and making amends for harm caused 
+(Austad & Rezentes, 2023; Moore, 2023). This reflects psychological safety research showing 
+acts of forgiveness, repentance, and restitution can help restore trust and cooperation in groups
+after transgressions, mistakes, or interpersonal conflicts take place 
+(Bradley et al., 2012; Dirks et al., 2009; Frazier et al., 2017). When team members adopt a mindset 
+of forgiveness rather than getting stuck in cycles of blaming and punishing individual errors, it can 
+significantly promote psychological safety by reducing threats to status, belonging, and inclusion 
+that often deter open participation (Edmondson, 1999). The _ho’oponopono process_ supplies a structured 
+Indigenous framework to enable group repentance, making of amends, and forgiveness in the modern age.
 
-The rapid review meta-analysis involves defining the review's scope, identifying 
-relevant literature, assessing study quality, extracting data, and synthesizing 
-and interpreting results. This methodology's objective is to create a comprehensive 
-understanding of the research field (Borenstein et al., 2009).
+### RECONCILING AND STRENGTHENING RELATIONSHIPS
 
-Applying this methodology in our research, we compile and analyze various studies 
-on psychological safety and silencing dissent. Through synthesizing these studies, 
-we aim to contribute to a more nuanced understanding of these topics.
+The final steps in _ho’oponopono_ traditionally involve prayer, open dialogue, ceremony, and other rituals 
+aimed at reconciling relationships, restoring harmony, and moving forward (Austad & Rezentes, 2023). There 
+are clear parallels that can be seen here with psychological safety’s emphasis and criteria related to 
+maintaining a sustainable level of interpersonal respect, inclusion, and trust among group members (Edmondson, 1999). 
+The relationship reconciliation practices found in _ho’oponopono_ could potentially help teams to heal disconnects, 
+process conflict, and renew shared understanding after setbacks or rifts occur. This in turn supports psychological 
+safety by proactively addressing and mending ruptures or problems before they escalate in ways that might 
+otherwise erode individuals’ ability to comfortably be themselves or participate openly and honestly.
 
-### THE ROLE OF PSYCHOLOGICAL SAFETY
+### POTENTIAL SHORTCOMINGS AND IMPLEMENTATION CHALLENGES
 
-Psychological safety has been identified as a key factor in cultivating 
-trust within teams and fostering an environment where ideas and knowledge 
-are openly shared (Edmondson, 2004). When employees perceive their workplace 
-as psychologically safe, they are more likely to engage in behaviors that 
-foster creativity and continuous improvement.
+While there are evident conceptual connections between _ho’oponopono_ and constructs of psychological safety, it is 
+important to recognize some potential limitations, risks, caveats, and implementation challenges. For instance, 
+some contemporary practitioners and scholars have critiqued certain traditional elements of _ho’oponopono_ for placing 
+too much emphasis on personal confession, repentance, and responsibility while failing to adequately address larger 
+contextual, systemic, or structural factors enabling harm (Browne et al., 2009). Additionally, an overemphasis on 
+harmony and reconciliation without proper balance could potentially discourage constructive debate, dissent, 
+and accountability.
 
-Newman et al. (2017) discovered a positive relationship between psychological 
-safety and various organizational outcomes, such as job satisfaction and 
-performance levels. They also found that psychologically safe environments 
-lead to reduced employee turnover. Therefore, psychological safety is not 
-just beneficial but strategically crucial for organizations.
+Because _ho’oponopono_ originated in the Indigenous Hawaiian cultural contexts of small, close-knit communities, 
+adapting such communal practices to modern professional environments and organizational teams in Western cultural 
+settings would likely require sensitivity and will pose some challenges (Browne et al., 2009). Leaders looking 
+to incorporate insights from _ho'oponopono_ into the workplace will need to carefully consider how to adapt traditional 
+practices to employees' existing cultural norms. Directly imposing foreign concepts could backfire if seen as 
+inauthentic or forced. Instead, a thoughtful approach focused on organic integration is recommended, preserving 
+core principles while aligning delivery to modern contexts.
 
-In addition to this, when employees feel safe expressing their unique perspectives 
-and ideas, organizations can tap into the benefits of team diversity (Nembhard & Edmondson, 2006). 
-An environment steeped in psychological safety can drive innovation and adaptability, 
-crucial attributes in the rapidly evolving business landscape.
+### CONCLUSION AND FUTURE DIRECTIONS
 
-### SILENCING DISSENT – A THREAT TO PSYCHOLOGICAL SAFETY
+In conclusion, there are noteworthy conceptual and philosophical parallels that can be drawn between 
+the traditional Hawaiian cultural practice of _ho’oponopono_ and modern research insights into team dynamics 
+surrounding psychological safety. _Ho’oponopono’s_ principles of collective responsibility, repentance, 
+forgiveness, reconciliation, and forward movement closely align with and complement psychological safety’s 
+aims of reducing interpersonal fear, restoring trust, and enabling open participation after setbacks or 
+conflict. However, for organizations to successfully translate insights from _ho’oponopono_ into the 
+workplace, wise and careful implementation will be needed along with further research.
 
-The suppression of dissenting views can pose significant threats to 
-psychological safety and overall organizational effectiveness (Milliken et al., 2003). 
-When employees fear negative consequences for expressing dissenting views, 
-an atmosphere of fear and conformity can develop, stifling creativity and growth.
-
-Over time, the negative effects of silencing dissent can become more 
-severe (Detert & Edmondson, 2011). Fear of potential repercussions may 
-prevent employees from voicing legitimate concerns or innovative ideas. 
-This can thwart the identification of potential risks and impede the 
-constructive feedback loops necessary for an organization's development.
-
-Additionally, organizations known for suppressing dissent may harm their 
-reputation, dissuading potential employees and partners (Detert & Burris, 2007). 
-It is thus crucial for organizations to uphold diverse opinions and encourage dissent.
-
-### IMPLICATIONS FOR ORGANIZATIONS
-
-Organizations aiming to foster an innovative and learning culture must 
-prioritize psychological safety. This kind of environment encourages the 
-free exchange of ideas, supports diversity, and facilitates effective 
-decision-making processes (Edmondson, 2004).
-
-On the other hand, organizations must be cognizant of the risks associated 
-with silencing dissent. A culture of fear and conformity, stemming from the 
-suppression of dissent, can stifle innovation and hinder 
-growth (Milliken et al., 2003). Hence, organizations should nurture a 
-culture where dissent is considered a resource for learning and improvement, 
-rather than a threat.
-
-Leadership plays a significant role in developing and sustaining a psychologically 
-safe environment. Leaders can model behaviors that promote psychological safety, 
-such as fostering open communication, encouraging feedback, and demonstrating 
-empathy (Newman et al., 2017). They can also establish norms that value dissent, 
-fostering a culture of mutual respect and continuous learning.
-
-### RECOMMENDATIONS FOR FUTURE RESEARCH
-
-This rapid review served as an introduction with the purpose of 
-gleaning the surface on the concept of psychological safety in 
-team dynamics, performance, and society. Moving forward, future 
-research should delve into the strategies for cultivating psychological 
-safety within teams to examine their effectiveness. 
-
-While the current body of research provides a foundational understanding 
-of psychological safety and the dangers of silencing dissent, further 
-investigation is warranted. Future research could examine the precise 
-mechanisms by which psychological safety influences creativity and innovation.
-
-It would also be beneficial to explore how organizations can effectively 
-manage dissent to foster continuous learning and improvement. Longitudinal 
-studies that track the impacts of fostering psychological safety and encouraging 
-dissent over time may provide invaluable insights.
-
-Additionally, studies focusing on different cultural contexts may illuminate 
-how societal norms and values can influence the manifestation and importance 
-of psychological safety and dissent in workplaces.
-
-Likewise, it would also be worthwhile to investigate how different factors—such 
-as cultural context, demographic characteristics, and industry type—interact 
-with psychological safety. Furthermore, conducting longitudinal studies could 
-yield valuable insights into the long-term impact of sustained psychological 
-safety on team performance and societal dynamics. 
-
-Finally, utilizing a different methodology, such as that of a qualitative design, 
-may provide a more in-depth and focused yield of understanding that could lead 
-to new and undiscovered insight into the concept and understanding of psychological safety.
-
-### CONCLUSION
-
-In conclusion, psychological safety and the freedom to express dissenting views 
-are integral to creating a conducive work environment. Cultivating a work culture 
-that prioritizes psychological safety fosters trust, enhances creativity, and 
-facilitates the exchange of diverse ideas. Conversely, silencing dissent can 
-negatively affect an organization's growth, creativity, and adaptability. Therefore, 
-organizations must intentionally foster psychological safety and value dissent as a 
-resource for learning and improvement.
+The discussion presented in this paper only briefly explores the potential connections between the 
+Indigenous Hawaiian practice of _ho’oponopono_ and the modern construct of psychological safety in teams. 
+Future studies are needed to establish best practices for respectfully and meaningfully adapting 
+elements of _ho’oponopono_ in ways that boost psychological safety while still maintaining accountability 
+and constructive disagreement in modern organizational contexts. With thoughtful and empirically 
+grounded application, Indigenous concepts of harmony such as _ho’oponopono_ may hold valuable lessons 
+to complement contemporary techniques for fostering workplace inclusion, openness, resilience, and 
+cooperation. That said, our hopes in communicating the potential connections between the practice 
+of _ho’oponopono_ and psychological safety in this paper is to stimulate interest in future research 
+to explore this conceptual framework in an organizational context or society at large.
 <br><br>
 <hr style="margin-top:-1em;margin-bottom:+1em">
 
 ### REFERENCES
 
-Borenstein, M., Hedges, L. V., Higgins, J. P., & Rothstein, H. R. (2009). 
-_Introduction to Meta-Analysis_. Wiley. https://doi.org/10.1002/9780470743386
+Austad, C. S., & Rezentes, W. C. (2023). Hawaiian psychology: Ka lama kukui: Kūkākūkā (talking story) 
+and Hawaiian historical and racial trauma. _Peace and Conflict: Journal of Peace Psychology, 29_(1), 
+60-68. <a href="https://doi.org/10.1037/pac0000660" target="_blank">https://doi.org/10.1037/pac0000660</a>
 
-Detert, J. R., & Burris, E. R. (2007). Leadership behavior and employee voice: 
-Is the door really open? _Academy of Management Journal, 50_(4), 869-884. 
-https://doi.org/10.5465/amj.2007.26279183
+Bradley, B. H., Postlethwaite, B. E., Klotz, A. C., Hamdani, M. R., & Brown, K. G. (2012). Reaping 
+the benefits of task conflict in teams: The critical role of team psychological safety climate. 
+_Journal of Applied Psychology, 97_(1), 151-158. <a href="https://doi.org/10.1037/a0024200" target="_blank">https://doi.org/10.1037/a0024200</a>
 
-Detert, J. R., & Edmondson, A. C. (2011). Implicit voice theories: Taken-for-granted 
-rules of self-censorship at work. _Academy of Management Journal, 54_(3), 461-488. 
-https://doi.org/10.5465/AMJ.2011.61967925
+Browne, C. V., Mokuau, N., & Braun, K. L. (2009). Adversity and resiliency in the lives of Native 
+Hawaiian elders. _Social Work, 54_(3), 253–261. <a href="https://doi.org/10.1093/sw/54.3.253" target="_blank">https://doi.org/10.1093/sw/54.3.253</a>
 
-Edmondson, A. (2004). Psychological safety, trust, and learning in organizations: 
-A group-level lens. In R. M. Kramer & K. S. Cook (Eds.), 
-_Trust and distrust in organizations: Dilemmas and approaches_ (pp. 239-272). Russell Sage Foundation.
+Dirks, K. T., Lewicki, R. J., & Zaheer, A. (2009). Reparing relationships within and between 
+organizations: Building a conceptual foundation. _Academy of Management Review, 34_(1), 68-84. 
+<a href="https://doi.org/10.5465/amr.2009.35713285" target="_blank">https://doi.org/10.5465/amr.2009.35713285</a>
 
-Haby, M. M., Chapman, E., Clark, R., Barreto, J., Reveiz, L., & Lavis, J. N. (2016). 
-What are the best methodologies for rapid reviews of the research evidence for 
-evidence-informed decision making in health policy and practice: A rapid review. 
-_Health Research Policy and Systems, 14_(1), 1-12. https://doi.org/10.1186/s12961-016-0155-7
+Edmondson, A. (1999). Psychological safety and learning behavior in work teams. _Administrative 
+Science Quarterly, 44_(2), 350-383. <a href="https://doi.org/10.2307/2666999" target="_blank">https://doi.org/10.2307/2666999</a>
 
-Milliken, F. J., Morrison, E. W., & Hewlin, P. F. (2003). An exploratory study of 
-employee silence: Issues that employees don’t communicate upward and why. 
-_Journal of Management Studies, 40_(6), 1453-1476. https://doi.org/10.1111/1467-6486.00387
+Frazier, M. L., Fainshmidt, S., Klinger, R. L., Pezeshkan, A., & Vracheva, V. (2017). Psychological 
+safety: A meta-analytic review and extension. _Personnel Psychology, 70_(1), 
+113–165. <a href="https://doi.org/10.1111/peps.12183" target="_blank">https://doi.org/10.1111/peps.12183</a>
 
-Nembhard, I. M., & Edmondson, A. C. (2006). Making it safe: The effects of leader 
-inclusiveness and professional status on psychological safety and improvement 
-efforts in health care teams. _Journal of Organizational Behavior, 27_(7), 941-966. https://doi.org/10.1002/job.413
-
-Newman, A., Donohue, R., & Eva, N. (2017). Psychological safety: A systematic 
-review of the literature. _Human Resource Management Review, 27_(3), 521-535. https://doi.org/10.1016/j.hrmr.2017.01.001
+Moore, E. (2023). Pā’ina: Using the metaphor of a potluck to reimagine a third space for ethical
+research in Indigenous contexts. _International Education Journal: Comparative Perspectives, 22_(2), 
+48-60. <a href="https://openjournals.library.sydney.edu.au/IEJ/article/view/17731" target="_blank">https://openjournals.library.sydney.edu.au/IEJ/article/view/17731</a>
 
 _______________________________________________________________________________________________
 
 
-© 2023. This is an open access article distributed under the terms of the 
+© 2024. This is an open access article distributed under the terms of the 
 Creative Commons Attribution License (<a href="https://creativecommons.org/licenses/by/4.0/legalcode" target="_blank">CC-BY 4.0</a>), 
 which permits the user to copy, distribute, and transmit the work provided that 
 the original author(s) and source are credited.
@@ -203,9 +156,8 @@ V. S. Brown (vernon [ at ] psafe.org) is with the PSafe Project, Honolulu, HI 96
 
 To cite this document:
 
-Brown, V. S. (2023). Psychological safety and the perils of silencing dissent: 
-A rapid review meta-analysis. _Psychological Safety, Advancement and Review, 1_(1), 3-5. 
-https://doi.org/10.5281/zenodo.8140985
+Brown, V. S. (2024). The connection between ho’oponopono and psychological safety. _Psychological Safety, Advancement and Review, 2_(1), 1-4. 
+https://zenodo.org/doi/10.5281/zenodo.8374434
 
 Permanent link to this document:
-<a href="https://doi.org/10.5281/zenodo.8140985" target="_blank">https://doi.org/10.5281/zenodo.8140985</a>
+<a href="https://zenodo.org/doi/10.5281/zenodo.8374434" target="_blank">https://zenodo.org/doi/10.5281/zenodo.8374434</a>
