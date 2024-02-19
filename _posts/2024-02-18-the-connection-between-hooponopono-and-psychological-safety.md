@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'The Connection Between Ho'oponopono and Psychological Safety'
-meta1: '<meta name="citation_title" content="The Connection Between Ho'oponopono and Psychological Safety">'
+title: 'The Connection Between Hooponopono and Psychological Safety'
+meta1: '<meta name="citation_title" content="The Connection Between Hooponopono and Psychological Safety">'
 meta2: '<meta name="citation_author" content="Brown, Vernon S.">'
 meta3: '<meta name="citation_publication_date" content="2024/02/18">'
 meta4: '<meta name="citation_journal_title" content="Psychological Safety, Advancement and Review">'
