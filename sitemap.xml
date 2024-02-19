@@ -44,7 +44,7 @@
 <priority>0.5</priority>
 </url>
  <url>
-<loc>https://psafe.org/PDF/The_Connection_Between_Ho’oponopono_and_Psychological_Safety.pdf</loc>
+<loc>https://psafe.org/PDF/The_Connection_Between_Hooponopono_and_Psychological_Safety.pdf</loc>
 <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
 <changefreq>always</changefreq>
 <priority>0.5</priority>
