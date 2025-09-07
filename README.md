@@ -1,2 +1,2 @@
 # psafe
-PSafe Project: Psychological Safetyy
+PSafe Project: Psychological Safety
