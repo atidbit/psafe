@@ -26,6 +26,12 @@
 <priority>0.5</priority>
 </url>
  <url>
+<loc>https://psafe.org/publication/</loc>
+<lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+<changefreq>always</changefreq>
+<priority>0.5</priority>
+</url>
+ <url>
 <loc>https://psafe.org/pdf/06192023</loc>
 <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
 <changefreq>always</changefreq>
@@ -58,3 +64,4 @@
 </url>
  {% endfor %}
 </urlset>
+
