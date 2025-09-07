@@ -1,0 +1,26 @@
+---
+layout: default
+title: Psychological Safety, Advancement and Review
+---
+
+<div id="home">
+  
+ <h1>PSAR: Recent Articles</h1>
+
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title | truncatewords: 4 }}</a></li>
+    {% endfor %}
+  </ul>
+<hr style="margin-top:-1em;margin-bottom:+1em">
+ 
+<h1>Submission Guidelines</h1>
+  <ul class="posts">
+    PSafe Project’s goal is to serve as an intellectual repository for rigorous academic research on psychological safety. We are dedicated 
+    to encouraging explorations across a wide spectrum of themes, including but not limited to the individual, interpersonal, organizational, 
+    and societal dimensions of psychological safety. All submissions should follow the format and outline of the Psychological Safety, Advancement 
+    and Review (PSAR) template, which can be downloaded [here].
+      
+  </ul>
+
+</div>
