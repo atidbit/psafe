@@ -33,7 +33,7 @@ meta9: '<meta name="citation_pdf_url" content="https://psafe.org/pdf/06192023">'
 <!-- Add PDF Button End -->
 <p class="meta">19 June 2023</p>
 
-**Abstractt** — _This rapid review provides a summary analysis of the concept of 
+**Abstract** — _This rapid review provides a summary analysis of the concept of 
 psychological safety. The aim of this paper is to highlight the evolution, impact 
 on team dynamics, performance, and its broader societal implications. This rapid 
 research utilizes a streamlined systematic approach to discuss the crucial role 
