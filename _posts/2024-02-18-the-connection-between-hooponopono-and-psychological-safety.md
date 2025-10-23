@@ -35,7 +35,7 @@ meta9: '<meta name="citation_pdf_url" content="https://psafe.org/pdf/02182024">'
 
 **Abstract** — _This paper explores the potential connections between the Indigenous Hawaiian practice of ho’oponopono and modern constructs of psychological safety in teams. Ho’oponopono is a cultural tradition focused on conflict resolution through collective responsibility, repentance, forgiveness, and reconciliation. Psychological safety describes a group climate characterized by interpersonal trust, inclusion, and risk-taking. At first glance, these concepts may seem unrelated. Analysis reveals notable alignments between ho’oponopono principles and psychological safety aims of mitigating fear, restoring trust, and enabling participation after setbacks. However, thoughtfulness is needed when translating communal ho’oponopono practices into contemporary organizational contexts. While ho’oponopono holds lessons for psychological safety in society, careful adaptation and more research is needed on implementation. With sensitivity, the harmony and foundation of ho’oponopono could meaningfully complement techniques for cooperation in organizations and larger societal issues_.
 
-**Keywords** — _Ho’oponopono, Psychological Safety, Team Dynamics, Reconciliation, Organizational Culture, Oganizational Climate, Conflict Resolution_
+**Keywords** — _Ho’oponopono, Psychological Safety, Team Dynamics, Reconciliation, Organizational Culture, Organizational Climate, Conflict Resolution_
 
 <a href="https://psafe.org/pdf/02182024" target="_blank"><button class="btn"><i class="fa fa-download"></i> PDF</button></a> 
 DOI: <a href="https://doi.org/10.5281/zenodo.8374435" target="_blank">https://doi.org/10.5281/zenodo.8374435</a>
