@@ -9,7 +9,7 @@ meta5: '<meta name="citation_volume" content="1">'
 meta6: '<meta name="citation_issue" content="1">'
 meta7: '<meta name="citation_firstpage" content="3">'
 meta8: '<meta name="citation_lastpage" content="5">'
-meta9: '<meta name="citation_pdf_url" content="https://psafe.org/pdf/07132023">'
+meta9: '<meta name="citation_pdf_url" content="https://psafe.org/pdf/Psychological_Safety_and_the_Perils_of_Silencing_Dissent_A_Rapid_Review_Meta-Analysis.pdf">'
 ---
 
 {{ page.title }}
