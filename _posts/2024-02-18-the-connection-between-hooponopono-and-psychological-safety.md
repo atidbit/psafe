@@ -9,7 +9,7 @@ meta5: '<meta name="citation_volume" content="2">'
 meta6: '<meta name="citation_issue" content="1">'
 meta7: '<meta name="citation_firstpage" content="1">'
 meta8: '<meta name="citation_lastpage" content="4">'
-meta9: '<meta name="citation_pdf_url" content="https://psafe.org/pdf/02182024">'
+meta9: '<meta name="citation_pdf_url" content="https://psafe.org/pdf/The_Connection_Between_Hooponopono_and_Psychological_Safety.pdf">'
 ---
 
 {{ page.title }}
