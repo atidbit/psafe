@@ -9,7 +9,7 @@ meta5: '<meta name="citation_volume" content="1">'
 meta6: '<meta name="citation_issue" content="1">'
 meta7: '<meta name="citation_firstpage" content="1">'
 meta8: '<meta name="citation_lastpage" content="2">'
-meta9: '<meta name="citation_pdf_url" content="https://psafe.org/pdf/Influence_of_Psychological_Safety_A_Rapid_Review.pdf">'
+meta9: '<meta name="citation_pdf_url" content="https://psafe.org/pdf/Influence_of_Psychological_Safety_A_Rapid_Review.pd">'
 ---
 
 {{ page.title }}
