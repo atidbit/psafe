@@ -1,0 +1,5 @@
+---
+redirect_to: https://psafe.org/pdf/The_Connection_Between_Hooponopono_and_Psychological_Safety.pdf
+title: Redirecting to Updated Document
+permalink: /pdf/02182024/   # Forces trailing slash if needed
+---
