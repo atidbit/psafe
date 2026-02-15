@@ -37,7 +37,7 @@ meta9: '<meta name="citation_pdf_url" content="https://psafe.org/pdf/The_Connect
 
 **Keywords** — _Ho’oponopono, Psychological Safety, Team Dynamics, Reconciliation, Organizational Culture, Organizational Climate, Conflict Resolution_
 
-<a href="https://psafe.org/pdf/02182024" target="_blank"><button class="btn"><i class="fa fa-download"></i> PDF</button></a> 
+<a href="https://psafe.org/pdf/The_Connection_Between_Hooponopono_and_Psychological_Safety.pdf" target="_blank"><button class="btn"><i class="fa fa-download"></i> PDF</button></a> 
 DOI: <a href="https://doi.org/10.5281/zenodo.8374435" target="_blank">https://doi.org/10.5281/zenodo.8374435</a>
 
 ISSN (Online): _Pending_
