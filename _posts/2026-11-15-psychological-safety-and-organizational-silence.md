@@ -253,7 +253,7 @@ relationships with perceived impact, psychological safety, and burnout. _Academy
 
 U.S. House Committee on Transportation and Infrastructure. (2020). _Final committee report: The design, 
 development & certification of the Boeing 737 MAX_ [Majority staff report]. 
-<a href="https://democrats-transportation.house.gov/imo/media/doc/2020.09.15%20FINAL%20737%20MAX%20Report%20for%20Public%20Release.pdf" target="_blank">https://democrats-transportation.house.gov/imo/media/doc/2020.09.15%20FINAL%20737%20MAX%20Report%20for%20Public%20Release.pdf</a>
+<a href="https://democrats-transportation.house.gov/imo/media/doc/2020.09.15%20FINAL%20737%20MAX%20Report%20for%20Public%20Release.pdf" target="_blank" style="overflow-wrap:anywhere;word-break:break-word">https://democrats-transportation.house.gov/imo/media/doc/2020.09.15%20FINAL%20737%20MAX%20Report%20for%20Public%20Release.pdf</a>
 
 Van Dyne, L., Ang, S., & Botero, I. C. (2003). Conceptualizing employee silence and employee voice as 
 multidimensional constructs. _Journal of Management Studies, 40_(6), 1359–1392. 
