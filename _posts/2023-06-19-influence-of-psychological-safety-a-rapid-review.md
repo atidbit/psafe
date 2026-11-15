@@ -10,6 +10,7 @@ meta6: '<meta name="citation_issue" content="1">'
 meta7: '<meta name="citation_firstpage" content="1">'
 meta8: '<meta name="citation_lastpage" content="2">'
 meta9: '<meta name="citation_pdf_url" content="https://psafe.org/pdf/Influence_of_Psychological_Safety_A_Rapid_Review.pdf">'
+meta10: '<meta name="citation_doi" content="10.5281/zenodo.8053648">'
 ---
 
 {{ page.title }}
