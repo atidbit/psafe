@@ -10,6 +10,7 @@ meta6: '<meta name="citation_issue" content="1">'
 meta7: '<meta name="citation_firstpage" content="1">'
 meta8: '<meta name="citation_lastpage" content="4">'
 meta9: '<meta name="citation_pdf_url" content="https://psafe.org/pdf/The_Connection_Between_Hooponopono_and_Psychological_Safety.pdf">'
+meta10: '<meta name="citation_doi" content="10.5281/zenodo.8374435">'
 ---
 
 {{ page.title }}

@@ -10,6 +10,7 @@ meta6: '<meta name="citation_issue" content="1">'
 meta7: '<meta name="citation_firstpage" content="6">'
 meta8: '<meta name="citation_lastpage" content="10">'
 meta9: '<meta name="citation_pdf_url" content="https://psafe.org/pdf/A_Comparative_Study_of_Natural_Disasters_and_Epidemics.pdf">'
+meta10: '<meta name="citation_doi" content="10.5281/zenodo.8260482">'
 ---
 
 {{ page.title }}
