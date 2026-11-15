@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<div id="post">
+  <h1>{{ page.title }}</h1>
+  <p class="meta">{{ page.date | date: "%-d %B %Y" }}</p>
+  {{ content }}
+</div>
+{% assign now_ts = site.time | date: '%s' %}
+{% assign others = site.blog | sort: 'date' | reverse %}
+{% assign shown = 0 %}
+{% capture related_items %}
+{% for post in others %}
+  {% if post.url != page.url %}
+    {% assign post_ts = post.date | date: '%s' %}
+    {% if post_ts <= now_ts %}
+      {% if shown < 3 %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title | truncatewords: 4 }}</a></li>
+        {% assign shown = shown | plus: 1 %}
+      {% endif %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+{% endcapture %}
+{% if shown > 0 %}
+<hr style="margin-bottom:+1em">
+<div id="related">
+  <h2>More from the PSafe blog</h2>
+  <ul class="posts">
+    {{ related_items }}
+  </ul>
+</div>
+{% endif %}
