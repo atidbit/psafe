@@ -2,3 +2,15 @@ permalink: pretty
 
 plugins:
   - jekyll-redirect-from
+
+collections:
+  blog:
+    output: true
+    permalink: /blog/:title/
+
+defaults:
+  - scope:
+      path: "_blog"
+      type: blog
+    values:
+      layout: blogpost

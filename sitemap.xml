@@ -26,6 +26,12 @@
 <priority>0.5</priority>
 </url>
  <url>
+<loc>https://psafe.org/blog/</loc>
+<lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+<changefreq>always</changefreq>
+<priority>0.5</priority>
+</url>
+ <url>
 <loc>https://psafe.org/publication/</loc>
 <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
 <changefreq>always</changefreq>
@@ -62,6 +68,18 @@
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
+ {% endfor %}
+ {% for post in site.blog %}
+ {% assign post_ts = post.date | date: '%s' %}
+ {% assign now_ts = site.time | date: '%s' %}
+ {% if post_ts <= now_ts %}
+<url>
+<loc>https://psafe.org{{ post.url }}</loc>
+<lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority>
+</url>
+ {% endif %}
  {% endfor %}
 </urlset>
 

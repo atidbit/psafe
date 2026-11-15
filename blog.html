@@ -1,0 +1,35 @@
+---
+layout: default
+title: PSafe Blog
+permalink: /blog/
+---
+
+<div id="home">
+
+  <h1>PSafe Blog</h1>
+  <p>Short, practical reads on psychological safety at work.</p>
+
+  {% assign blog_posts = site.blog | sort: 'date' | reverse %}
+  {% assign now_ts = site.time | date: '%s' %}
+  {% assign visible_count = 0 %}
+  {% for post in blog_posts %}
+    {% assign post_ts = post.date | date: '%s' %}
+    {% if post_ts <= now_ts %}
+      {% assign visible_count = visible_count | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+  {% if visible_count == 0 %}
+  <p>First post coming soon.</p>
+  {% else %}
+  <ul class="posts">
+    {% for post in blog_posts %}
+      {% assign post_ts = post.date | date: '%s' %}
+      {% if post_ts <= now_ts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title | truncatewords: 4 }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+</div>
