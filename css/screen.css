@@ -152,6 +152,17 @@ ul.posts span {
   color: #8085C1;
 }
 
+.site .footer .contact svg.fi {
+  width: 0.95em;
+  height: 0.95em;
+  margin-right: 0.4em;
+  vertical-align: -0.12em;
+  fill: currentColor;
+}
+.site .footer .contact svg.fi-reddit { fill: #FF4500; }
+.site .footer .contact svg.fi-x { fill: #000000; }
+.site .footer .contact svg.fi-blog { color: #A00; }
+
 .site .footer .rss {
   margin-top: 1.1em;
   margin-right: -0.2em;
