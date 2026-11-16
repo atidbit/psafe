@@ -84,6 +84,13 @@ ul.posts li {
   line-height: 1.6;
 }
 
+/* Blog lists: full title on one line, trimmed with an ellipsis only if it would wrap */
+ul.posts.blog-list li {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 ul.posts span {
   color: #a00;
   font-family: Monaco, "Courier New", monospace;

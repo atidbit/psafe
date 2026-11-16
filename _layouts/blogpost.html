@@ -15,7 +15,7 @@ layout: default
     {% assign post_ts = post.date | date: '%s' %}
     {% if post_ts <= now_ts %}
       {% if shown < 3 %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title | truncatewords: 4 }}</a></li>
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
         {% assign shown = shown | plus: 1 %}
       {% endif %}
     {% endif %}
@@ -26,7 +26,7 @@ layout: default
 <hr style="margin-bottom:+1em">
 <div id="related">
   <h2>More from the PSafe blog</h2>
-  <ul class="posts">
+  <ul class="posts blog-list">
     {{ related_items }}
   </ul>
 </div>
