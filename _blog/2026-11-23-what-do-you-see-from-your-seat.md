@@ -1,6 +1,7 @@
 ---
 title: "What Do You See From Your Seat?"
 date: 2026-11-23 08:00:00 -1000
+permalink: /blog/what-do-you-see-from-your-seat/
 description: "Teams learn from failure more easily when people share goals, know each other's work, and respect it. One kickoff question helps build that."
 meta1: '<meta name="description" content="Teams learn from failure more easily when people share goals, know each other's work, and respect it. One kickoff question helps build that.">'
 meta2: '<meta property="og:title" content="What Do You See From Your Seat?">'
