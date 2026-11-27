@@ -1,0 +1,33 @@
+---
+sitemap: false
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PSafe Blog</title>
+    <link>https://psafe.org/blog/</link>
+    <description>Short, practical reads on psychological safety at work.</description>
+    <atom:link href="https://psafe.org/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <managingEditor>project@psafe.org (PSafe Project)</managingEditor>
+    <webMaster>project@psafe.org (PSafe Project)</webMaster>
+{% assign blog_posts = site.blog | sort: 'date' | reverse %}
+{% assign now_ts = site.time | date: '%s' %}
+{% for post in blog_posts %}
+  {% assign post_ts = post.date | date: '%s' %}
+  {% if post_ts <= now_ts %}
+    {% if post.sitemap == false or post.noindex %}
+    {% else %}
+    <item>
+      <title>{{ post.title | xml_escape }}</title>
+      <link>https://psafe.org{{ post.url }}</link>
+      <guid isPermaLink="true">https://psafe.org{{ post.url }}</guid>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      <description>{{ post.description | xml_escape }}</description>
+      <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
+    </item>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+  </channel>
+</rss>
