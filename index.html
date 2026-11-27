@@ -19,6 +19,25 @@ title: Psychological Safety, Advancement and Review
     {% endfor %}
   </ul>
 
+  <h1>Recent Blog Posts</h1>
+  <ul class="posts">
+    {% assign blog_posts = site.blog | sort: 'date' | reverse %}
+    {% assign now_ts = site.time | date: '%s' %}
+    {% assign shown = 0 %}
+    {% for post in blog_posts %}
+      {% assign post_ts = post.date | date: '%s' %}
+      {% if post_ts <= now_ts %}
+        {% if post.sitemap == false or post.noindex %}
+        {% else %}
+          {% if shown < 5 %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% assign shown = shown | plus: 1 %}
+          {% endif %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+
   <h1>Contribute and Join The Conversation</h1>
   <ul class="posts">
    
